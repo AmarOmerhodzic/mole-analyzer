@@ -1,0 +1,47 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+*.egg
+*.egg-info/
+dist/
+build/
+develop-eggs/
+.eggs/
+
+# Virtual environment
+tfenv/
+venv/
+.env/
+.envrc
+
+# TensorFlow/Keras model files (if large)
+*.h5
+*.keras
+*.ckpt
+saved_model/
+
+# Pytest
+.pytest_cache/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# SQLite (optional)
+*.sqlite3
+
+# Uvicorn PID files
+*.pid
