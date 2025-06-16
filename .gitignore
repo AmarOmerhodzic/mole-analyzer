@@ -19,7 +19,6 @@ venv/
 
 # TensorFlow/Keras model files (if large)
 *.h5
-*.keras
 *.ckpt
 saved_model/
 
